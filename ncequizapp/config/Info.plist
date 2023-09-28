@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>REALM_DISABLE_ANALYTICS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Nunito-Italic.ttf</string>
+		<string>Nunito-Bold.ttf</string>
+		<string>Nunito-Medium.ttf</string>
+		<string>Nunito-Regular.ttf</string>
+		<string>Nunito-Light.ttf</string>
+		<string>Roboto-Italic</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Medium</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Bold</string>
+	</array>
+</dict>
+</plist>

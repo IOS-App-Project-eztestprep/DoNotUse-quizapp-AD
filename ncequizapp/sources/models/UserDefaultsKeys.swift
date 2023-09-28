@@ -1,0 +1,116 @@
+import Foundation
+
+enum UserDefaultsKeys: String {
+    case questionSourceVersion
+    case dailyStreakDate
+    case dailyStreak
+    case completedQuizzes
+    case completedDailyQuizzes
+    case completedRandomQuizzes
+    case completedTimedQuizzes
+    case longestStreak
+    case actualScore
+    
+    case userSettings
+    
+    case subscriberId
+    case subscriptionExpirationDate
+    case totalTimeQuiz
+    
+    case notificationsEnabled
+    case promotionalOfferScheduled
+    case promotionalOfferCheckedOnDate
+    case promotionalOfferScheduledDate
+    
+    case badgesUnlocked
+    
+    case badge1
+    case badge2
+    case badge3
+    case badge4
+    case badge5
+    case badge6
+    case badge7
+    case badge8
+    case badge9
+    case badge10
+    case badge11
+    case badge12
+    case badge13
+    case badge14
+    case badge15
+    case badge16
+    case badge17
+    case badge18
+    case badge19
+    case badge20
+    case badge21
+    case badge22
+    case badge23
+    case badge24
+    case badge25
+    case badge26
+    case badge27
+    case badge28
+    case badge29
+    case badge30
+    case badge31
+    case badge32
+    case badge33
+    case badge34
+    case badge35
+    case badge36
+    case badge37
+    case badge38
+    case badge39
+    case badge40
+    case badge41
+    case badge42
+    
+    case badge1Shown
+    case badge2Shown
+    case badge3Shown
+    case badge4Shown
+    case badge5Shown
+    case badge6Shown
+    case badge7Shown
+    case badge8Shown
+    case badge9Shown
+    case badge10Shown
+    case badge11Shown
+    case badge12Shown
+    case badge13Shown
+    case badge14Shown
+    case badge15Shown
+    case badge16Shown
+    case badge17Shown
+    case badge18Shown
+    case badge19Shown
+    case badge20Shown
+    case badge21Shown
+    case badge22Shown
+    case badge23Shown
+    case badge24Shown
+    case badge25Shown
+    case badge26Shown
+    case badge27Shown
+    case badge28Shown
+    case badge29Shown
+    case badge30Shown
+    case badge31Shown
+    case badge32Shown
+    case badge33Shown
+    case badge34Shown
+    case badge35Shown
+    case badge36Shown
+    case badge37Shown
+    case badge38Shown
+    case badge39Shown
+    case badge40Shown
+    case badge41Shown
+    case badge42Shown
+    
+    case scored100Percent
+    case scored90PercentOnExamSimulator
+    case scored100PercentOnExamSimulator
+}
